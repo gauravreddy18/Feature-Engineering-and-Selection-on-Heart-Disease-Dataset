@@ -1,0 +1,1 @@
+Creating new features and choosing pertinent ones for model training are the tasks involved in this activity. Among the responsibilities include creating significant features from the available data, identifying the most important features through methods like principal component analysis (PCA) and feature significance, and refining feature sets to improve model performance.
